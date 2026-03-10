@@ -5,7 +5,7 @@
 
 <img src="https://imgur.com/rPWfhz1.jpg">
 
-[Click here for Video Demo](https://youtu.be/IhpFZ5t9tD0)
+
 
 ## Requirements
 - python 3
@@ -31,7 +31,5 @@ The basic idea is given below:
 - [invisible_cloak.py](./invisible_cloak.py)
     Invisible_cloak file records the main window and works with the image saved by ``background.py`` for making the invisible cloak.
 
-## Reference Links
-- https://youtu.be/EGMHG0bv-CE
-- https://learnopencv.com/invisibility-cloak-using-color-detection-and-segmentation-with-opencv/
+
 
